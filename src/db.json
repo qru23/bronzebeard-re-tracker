@@ -1,0 +1,452 @@
+{
+  "classes": [{
+      "name": "Paladin",
+      "icon": "inv_shield_05",
+      "specs": [{
+          "name": "Holy",
+          "icon": "spell_holy_holybolt"
+        },
+        {
+          "name": "Protection",
+          "icon": "spell_holy_devotionaura"
+        },
+        {
+          "name": "Retribution",
+          "icon": "spell_holy_auraoflight"
+        }
+      ],
+      "res": [{
+          "name": "Light's Hammer",
+          "rarity": "artifact",
+          "location": "WPL Scarlet Area named mob",
+          "specs": ["Holy", "Retribution", "Protection"]
+        },
+        {
+          "name": "Beacon of Virtue",
+          "rarity": "legendary",
+          "location": "Somewhere",
+          "specs": ["Holy"]
+        },
+        {
+          "name": "Blinding Light",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Execution Sentence",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Twist of Faith",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Hammerstorm",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Holy Templar",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Divine Steed",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Light of the Guardian",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Crimson Defense",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Protection Mastery",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Blessing of the Divines",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Glimmer of Light",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Holy Mastery",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "One With The Light",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Guardian of Ancient Kings",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Retribution Mastery",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Crusader of the Light",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Consecrated Weapon",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Crusader's Judgement",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Swift Execution",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Branding Zeal",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Long Arm of the Law",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Execution Verdict",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Consecrated Zeal",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Divine Reprieve",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Fierce Vengeance",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Pious Strikes",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Synergistic Light",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "A New Dawn",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Spark of Hope",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Light of Dawn",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Baleful Hammer",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Righteous Verdict",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Swift Favor",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Sword of Vengeance",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Righteous Light",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Swift Avenger",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Armor of Wrath",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Sacred Light",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Wrathful Exorcism",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Divine Resurgence",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Divine Sacrifice",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Blessed Hammer",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Divine Order",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Sacred Unity",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Shield of Wrath",
+          "rarity": "epic",
+          "location": "",
+          "specs": ["Protection"]
+        }
+      ]
+    },
+    {
+      "name": "Warrior",
+      "icon": "inv_sword_27",
+      "specs": [{
+          "name": "Arms",
+          "icon": "ability_warrior_savageblow"
+        },
+        {
+          "name": "Fury",
+          "icon": "ability_warrior_innerrage"
+        },
+        {
+          "name": "Protection",
+          "icon": "ability_warrior_defensivestance"
+        }
+      ],
+      "res": [{
+        "name": "Gladiator",
+        "rarity": "legendary",
+        "location": "STV Arena quests",
+        "specs": ["Protection"]
+      }]
+    },
+    {
+      "name": "Druid",
+      "icon": "inv_staff_30",
+      "specs": [{
+          "name": "Balance",
+          "icon": "spell_nature_starfall"
+        },
+        {
+          "name": "Feral",
+          "icon": "ability_druid_catform"
+        },
+        {
+          "name": "Restoration",
+          "icon": "spell_nature_healingtouch"
+        }
+      ],
+      "res": []
+    },
+    {
+      "name": "Mage",
+      "icon": "inv_staff_13",
+      "specs": [{
+          "name": "Arcane",
+          "icon": "spell_holy_magicalsentry"
+        },
+        {
+          "name": "Fire",
+          "icon": "spell_fire_firebolt02"
+        },
+        {
+          "name": "Frost",
+          "icon": "spell_frost_frostbolt02"
+        }
+      ],
+      "res": []
+    },
+    {
+      "name": "Rogue",
+      "icon": "inv_sword_29",
+      "specs": [{
+          "name": "Assassination",
+          "icon": "ability_rogue_eviscerate"
+        },
+        {
+          "name": "Combat",
+          "icon": "ability_backstab"
+        },
+        {
+          "name": "Subtlety",
+          "icon": "ability_stealth"
+        }
+      ],
+      "res": []
+    },
+    {
+      "name": "Hunter",
+      "icon": "inv_weapon_bow_07",
+      "specs": [{
+          "name": "Beast Mastery",
+          "icon": "ability_hunter_bestialdiscipline"
+        },
+        {
+          "name": "Marksmanship",
+          "icon": "ability_hunter_focusedaim"
+        },
+        {
+          "name": "Survival",
+          "icon": "ability_hunter_camouflage"
+        }
+      ],
+      "res": []
+    },
+    {
+      "name": "Warlock",
+      "icon": "inv_staff_30",
+      "specs": [{
+          "name": "Affliction",
+          "icon": "spell_shadow_deathcoil"
+        },
+        {
+          "name": "Demonology",
+          "icon": "spell_shadow_metamorphosis"
+        },
+        {
+          "name": "Destruction",
+          "icon": "spell_shadow_rainoffire"
+        }
+      ],
+      "res": []
+    },
+    {
+      "name": "Priest",
+      "icon": "inv_staff_30",
+      "specs": [{
+          "name": "Discipline",
+          "icon": "spell_holy_powerwordshield"
+        },
+        {
+          "name": "Holy",
+          "icon": "spell_holy_guardianspirit"
+        },
+        {
+          "name": "Shadow",
+          "icon": "spell_shadow_shadowwordpain"
+        }
+      ],
+      "res": []
+    },
+    {
+      "name": "Shaman",
+      "icon": "inv_staff_30",
+      "specs": [{
+          "name": "Elemental",
+          "icon": "spell_nature_lightning"
+        },
+        {
+          "name": "Enhancement",
+          "icon": "spell_nature_lightningshield"
+        },
+        {
+          "name": "Restoration",
+          "icon": "spell_nature_healingwavegreater"
+        }
+      ],
+      "res": []
+    }
+  ]
+}
