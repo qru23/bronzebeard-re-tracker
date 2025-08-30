@@ -41,7 +41,7 @@
         },
         {
           "name": "Twist of Faith",
-          "rarity": "epic",
+          "rarity": "legendary",
           "location": "",
           "specs": []
         },
@@ -65,7 +65,7 @@
         },
         {
           "name": "Light of the Guardian",
-          "rarity": "epic",
+          "rarity": "legendary",
           "location": "",
           "specs": []
         },
@@ -83,7 +83,7 @@
         },
         {
           "name": "Blessing of the Divines",
-          "rarity": "artifact",
+          "rarity": "legendary",
           "location": "",
           "specs": []
         },
@@ -95,13 +95,13 @@
         },
         {
           "name": "Holy Mastery",
-          "rarity": "epic",
+          "rarity": "legendary",
           "location": "",
           "specs": []
         },
         {
           "name": "One With The Light",
-          "rarity": "artifact",
+          "rarity": "legendary",
           "location": "",
           "specs": []
         },
@@ -137,7 +137,7 @@
         },
         {
           "name": "Swift Execution",
-          "rarity": "legendary",
+          "rarity": "epic",
           "location": "",
           "specs": []
         },
@@ -155,7 +155,7 @@
         },
         {
           "name": "Execution Verdict",
-          "rarity": "legendary",
+          "rarity": "epic",
           "location": "",
           "specs": []
         },
@@ -167,19 +167,19 @@
         },
         {
           "name": "Divine Reprieve",
-          "rarity": "artifact",
+          "rarity": "epic",
           "location": "",
           "specs": []
         },
         {
           "name": "Fierce Vengeance",
-          "rarity": "legendary",
+          "rarity": "epic",
           "location": "",
           "specs": []
         },
         {
           "name": "Pious Strikes",
-          "rarity": "artifact",
+          "rarity": "epic",
           "location": "",
           "specs": []
         },
@@ -191,7 +191,7 @@
         },
         {
           "name": "A New Dawn",
-          "rarity": "artifact",
+          "rarity": "epic",
           "location": "",
           "specs": []
         },
@@ -203,37 +203,37 @@
         },
         {
           "name": "Light of Dawn",
-          "rarity": "artifact",
+          "rarity": "epic",
           "location": "",
           "specs": []
         },
         {
           "name": "Baleful Hammer",
-          "rarity": "legendary",
+          "rarity": "epic",
           "location": "",
           "specs": []
         },
         {
           "name": "Righteous Verdict",
-          "rarity": "artifact",
+          "rarity": "epic",
           "location": "",
           "specs": []
         },
         {
           "name": "Swift Favor",
-          "rarity": "artifact",
+          "rarity": "epic",
           "location": "",
           "specs": []
         },
         {
           "name": "Sword of Vengeance",
-          "rarity": "legendary",
+          "rarity": "epic",
           "location": "",
           "specs": []
         },
         {
           "name": "Righteous Light",
-          "rarity": "legendary",
+          "rarity": "epic",
           "location": "",
           "specs": []
         },
@@ -245,7 +245,7 @@
         },
         {
           "name": "Armor of Wrath",
-          "rarity": "legendary",
+          "rarity": "epic",
           "location": "",
           "specs": []
         },
@@ -257,13 +257,13 @@
         },
         {
           "name": "Wrathful Exorcism",
-          "rarity": "legendary",
+          "rarity": "epic",
           "location": "",
           "specs": []
         },
         {
           "name": "Divine Resurgence",
-          "rarity": "artifact",
+          "rarity": "epic",
           "location": "",
           "specs": []
         },
@@ -275,7 +275,7 @@
         },
         {
           "name": "Blessed Hammer",
-          "rarity": "artifact",
+          "rarity": "epic",
           "location": "",
           "specs": []
         },
@@ -287,7 +287,7 @@
         },
         {
           "name": "Sacred Unity",
-          "rarity": "legendary",
+          "rarity": "epic",
           "location": "",
           "specs": []
         },
@@ -316,11 +316,364 @@
         }
       ],
       "res": [{
-        "name": "Gladiator",
-        "rarity": "legendary",
-        "location": "STV Arena quests",
-        "specs": ["Protection"]
-      }]
+          "name": "Heroic Leap",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Avatar",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "War Banner",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Siegebreaker",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Colossus Smash",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Fury Mastery",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Arms Mastery",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Heavyweight",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Protection Mastery",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Ambidextrous",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Raging Blow",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Enduring Aegis",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Dragon Roar",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Ravager",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Storm Bolt",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Bulwark",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Bloodbath",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Gladiator",
+          "rarity": "legendary",
+          "location": "STV Arena quests",
+          "specs": ["Protection"]
+        },
+        {
+          "name": "Blood and Thunder",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Sword and Thunder",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Spell Block",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Overwhelming Rage",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Relentless Fury",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "En Garde!",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Skull Crusher",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Victorious",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Revengeful Block",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Crackling Thunder",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Roar of Dread",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Shield Master's Resolve",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Insatiable",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Iron Guard",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Victorious Stand",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Counterpoise",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Heavy Thunder",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Battering Ram",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        }, {
+          "name": "Cleaving Slam",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Outrage",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Desperation",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "A Quick Death",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Dragon Warrior",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Bloodthirsty",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Going For the Kill",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Titan's Fury",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Master of Arms",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Brutal Execution",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Raging Onslaught",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Here Comes The Big One",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Wingman",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Blades of Blood",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Revitalizing Revenge",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Shield Finesse",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Onslaught",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Throwing Mastery",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        }, {
+          "name": "Devastating Blademaster",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Jab Cross",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Power Slam",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Controlled Aggression",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Thundering Blow",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Seismic Shockwave",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        }
+      ]
     },
     {
       "name": "Druid",
@@ -338,7 +691,415 @@
           "icon": "spell_nature_healingtouch"
         }
       ],
-      "res": []
+      "res": [{
+          "name": "Ursol's Vortex",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Mass Entanglement",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Stampeding Roar",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Solar Beam",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Efflorescence",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Carnage Incarnate",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Flow of Life",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Feral Mastery",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Sunfire",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Touch of Elune",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Guardian Mastery",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Nature's Fervor",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Restoration Mastery",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Overflow",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Balance Mastery",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Deranged Druid",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Ironfur",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Predator's Wrath: Wrathful Strikes",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Incarnation: King of the Jungle",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Feral Frenzy",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Fury Unleashed",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Celestial Power",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Chosen of Elune",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Guardians of the Grove",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Spirit of the Forest",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Predator's Wrath: Focus",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Nature's Synthesis",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Elune's Fury",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Languish",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Predator's Wrath: Combo",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Symbiotic Nature",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Ursoc's Rage",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Nature's Abundance",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Counterpoise",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Ferocious Clarity",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Faerie's Favor",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Flourishing Nature",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Primal Frenzy",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Relentless Laceration",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Astral Alignment",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Omen of Fatality",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Savage Frenzy",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Moon's Wrath",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Graceful Resurgence",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Surging Eclipse",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Frenzied Slashing",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Razor-sharp Claws",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Ambush Predator",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Omen of Doom",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Tiger's Instinct",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Stellar Convergence",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Clarity of the Mind",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Razor Sweep",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Starcaller's Momentum",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Localized Storm",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Celestial Replenishment",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Verdant Insight",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Blooming Power",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Critical Cycles",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Frenzied Growth",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Everliving",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Bash and Thrash",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Savage Barricade",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "TIMBERRR",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "One with the Forest",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Cycles of Growth",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Shifting Bark",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Viscera",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        }
+      ]
     },
     {
       "name": "Mage",
@@ -356,7 +1117,337 @@
           "icon": "spell_frost_frostbolt02"
         }
       ],
-      "res": []
+      "res": [{
+          "name": "Alter Time",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Mass Invisibility",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Shimmer",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Ring of Frost",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Fire Mastery",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Meteor",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Rune of Power",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Frost Mastery",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Arcane Orb",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Hot Hands",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Arcane Mastery",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Frost Bomb",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Cremation",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Touch of the Magi",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Tame Dragonkin",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Ice Barrage",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Frozen Orb",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Wacky Wizardry",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Barrage Overload",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Glacial Cascade",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Trisolaris",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Flame On!",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Arcane Dominance",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Blink of the Warden",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Wanding",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Biting Frost",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Pyroclastic Surprise",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Fire Fire Fireball",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Hailstorm",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Icy Slaughter",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Fired Up",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Focal Point",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Frozen Conduit",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Rapid Shatter",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Rapid Blinking",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Fire Walk With Me",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Flame Alignment",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Power Overwhelming",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Impeccable Timing",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Temporal Haste",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Infused Gems",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Kindling",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Esoteric Power",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Precision Impact",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Elemental Torrent",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Arcane Cascade",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Brand of the Pyromaniac",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Critical Time",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Draconic Knowledge",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Stay Frosty",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Frozen Flesh",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Frozen Haste",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Pushing the Limit",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Scorched Ground",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Winter's Blaze",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        }
+      ]
     },
     {
       "name": "Rogue",
@@ -374,7 +1465,265 @@
           "icon": "ability_stealth"
         }
       ],
-      "res": []
+      "res": [{
+          "name": "Combat Readiness",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Grappling Hook",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Smoke Bomb",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Recuperate",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Combat Mastery",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Sinister Flurry",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Subtlety Mastery",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Shadow Blades",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Roll the Bones",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Assuaging Shadows",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Crimson Tempest",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Festering Wound",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Assassination Mastery",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Chasin' the Rush",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Kingsbane",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Hazardous Escape",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Murder Rush",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Shattering Execution",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "No Remorse",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Repartee",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Blade Vortex",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Energy Surge",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Fatal Counter",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Rush of Blood",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Sinister Finisher",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Phantom Stab",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Dispatch",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Bleeding Edge",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Blood-Soaked Mutilation",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Natural Energy",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Methodical Approach",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Poison Bomb",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Venomous Edge",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Envenomed",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Shadow of Death",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Adrenaline Junkie",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Assassin's Rush",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Combat Proficiency",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Prison Tactics",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Massacre",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Veiled Wire",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "From the Shadows",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Bloodshed",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        }
+      ]
     },
     {
       "name": "Hunter",
@@ -392,7 +1741,264 @@
           "icon": "ability_hunter_camouflage"
         }
       ],
-      "res": []
+      "res": [{
+          "name": "Defense of the Turtle",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Flanking Strike",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Binding Shot",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Posthaste",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Aspect of the Fox",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Survival Mastery",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Barbed Shot",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Explosive Charge",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Flare Strike",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Expunge",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Blood Tracker: Deadly Bite",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        }, {
+          "name": "Marksmanship Mastery",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Powershot",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Beast Mastery",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Stampede",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Combat Rhythm",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Savagery",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Hydra's Sting",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Hunting Frenzy",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Quickfire Tactics",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Stalker's Mark",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Trap Launcher",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Blood Tracker: Glaive Toss",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Kindle for the Fire",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Trick Shots",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Blood Tracker: Chaining Glaives",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Lone Wolf",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Deadly Aim",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Steady Shooting",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Marked Detonation",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Joint Onslaught",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Power Through",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Concussive Trauma",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Savage Momentum",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Fetch Me Their Bones!",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Deadly Instinct",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Beastmaster's Gambit",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Spot Weakness",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Rain of Arrows",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Black Widow Strike",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Steady Pace",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Charged Up",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Molten Ammo",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        }
+      ]
     },
     {
       "name": "Warlock",
@@ -410,7 +2016,277 @@
           "icon": "spell_shadow_rainoffire"
         }
       ],
-      "res": []
+      "res": [{
+          "name": "Unending Resolve",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Blood Horror",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Demonic Leap",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Burning Rush",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Destruction Mastery",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Soul Swap",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Cataclysmic Burst",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Demonology Mastery",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Endless Agony",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Soul Erosion",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Demonic Reoccurence",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Shadow Funnel",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Dusk Till Dawn",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Pure Shadow",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Searing Flames",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Shadow Siphon",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Demonic Siphon",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Dark Harvest",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Twilight Reaper",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Cursed Shadows",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Inner Flame",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Demonic Persistence",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Curseweaver",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Sudden Aftermath",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Heretic of Gul'dan",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Wanding",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Fire Storm",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Fel Damnation",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Inferno",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Agonizing Coil",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Wild Felfire",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Fire Attunement",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Doomcaller's Wrath",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Chaos Manifesting",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Endless Flames",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Soul Link",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Gul'dan's Chosen",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Pyroclasmic Shadows",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Unstable Void",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Eternal Torment",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Heating Up!",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Demonic Whirl",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Agent of Chaos",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Decisive Decimation",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Demonic Influence",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        }
+      ]
     },
     {
       "name": "Priest",
@@ -428,7 +2304,367 @@
           "icon": "spell_shadow_shadowwordpain"
         }
       ],
-      "res": []
+      "res": [{
+          "name": "Leap of Faith",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Angelic Feather",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Void Shift",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Power Word: Barrier",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Holy Word: Chastise",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Void Eruption",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Holy Radiance",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Holy Mastery",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Holy Ascension",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Shadow Mastery",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Atonement",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Halo",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Zany Zealot",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Shadow Visions",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Armor of Faith",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Void Herald: Whispers of the Old Gods",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Wraithweaver: Shadow Orbs",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Divine Star",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Twilight Paragon",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Centered",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Dark Focus",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Discipline Mastery",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Overflowing Light",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Shadow Reserves",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Light at the End of the Tunnel",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Shattered Renewal",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Psychic Influence",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Wanding",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Light and Shadow",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Accelerated Ascension",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Faith Rekindled",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Promise of Renewal",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Energizing Prayer",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Impending Doom",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Psychic Infusion",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Lightburst",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Purigation by Light",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Circle of Life",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Refilling the Well",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Intense Focus",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Purity of Light",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Power of Generosity",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Soul Restoration",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Endless Void",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Grateful Prayer",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Void Herald: Grasp of Darkness",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Radiant Star",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Good Fortune",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Void Herald: Madness of the Old Gods",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Holy Servitude",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Words of Healing",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Wraithweaver: Echoing Shadows",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Higher Power",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Words of Time",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Prayer Circle",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Vampiric Death",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Divine Symmetry",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Renewed Through Absolution",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Spirited Penance",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Prayers of the Penitent",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        }
+      ]
     },
     {
       "name": "Shaman",
@@ -446,7 +2682,403 @@
           "icon": "spell_nature_healingwavegreater"
         }
       ],
-      "res": []
+      "res": [{
+          "name": "Earthquake",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Sundering",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Windwalk Totem",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Capacitor Totem",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Spiritwalker's Grace",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Astral Plane",
+          "rarity": "artifact",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Elemental Mastery",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Cloudburst Totem",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Restoration Mastery",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Healing Rain",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Enhancement Mastery",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Lava Sweep",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Earthen Guardian Mastery",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Booming Thunder",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Tether Elemental",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Eccentric Elementalist",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Flame Ascendance",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Transcendental Embrace",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Hydromancer: Water Bolt",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Wind Lash",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Stormbound Instinct",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Air Ascendance",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Mending Tide",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Spreading Tides",
+          "rarity": "legendary",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Ungrounded",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Resurgent Waves",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Totem Master: Fire",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Earthen Spike",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Charged Tides",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Converging Elements",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Shock Tactics",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Frugal Disposition",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Crackling Flames",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Nature's Flow",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Elemental Harmony",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Clear Mind",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Elemental Equilibrium",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Ascending Flames",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Zephyr",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Hydromancer: Water Nova",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Electric Surge",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Earthen Grace",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Tides of Restoration",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Tethered Power",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Defense of Thundarian",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Lava Ignition",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Fury of the Wind",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Cataclysmic Sundering",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Healing Tide",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Lightning Strikes Twice",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Elemental Blast",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Elemental Momentum",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Forked Lightning",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Mastery of Lightning",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Primordial Aftershocks",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Mastery of the Tide",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Hydromancer: Conductor",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Low Tide",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Dynamic Charge",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Pack Alpha",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Molten Outburst",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Primal Tide",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Stormborn",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Leader of the Elements",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Lava Burn",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        },
+        {
+          "name": "Lightning Fangs",
+          "rarity": "epic",
+          "location": "",
+          "specs": []
+        }
+      ]
     }
   ]
 }

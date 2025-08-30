@@ -1,4 +1,4 @@
-import { Accordion, AppShell, Box, Button, Container, Group, MenuDropdown, Select, Stack, Text, TextInput, Title } from '@mantine/core'
+import { Accordion, AppShell, AppShellFooter, Box, Button, Container, Group, MenuDropdown, Select, Stack, Text, TextInput, Title } from '@mantine/core'
 import { useEffect, useMemo, useState } from 'react'
 import db from './db.json'
 import type { ClassData, Rarity, RE } from './types'
@@ -57,7 +57,11 @@ function App() {
         value={re.name}
         bg={colorMap[re.rarity]}
       >
-        <Accordion.Control>{re.name}</Accordion.Control>
+        <Accordion.Control
+          disabled={re.location === ''}
+        >
+          {re.name}
+        </Accordion.Control>
         <Accordion.Panel>{re.location || 'Unknown'}</Accordion.Panel>
       </Accordion.Item>
     ))
@@ -122,6 +126,14 @@ function App() {
           >
             {filteredReItems}
           </Accordion>
+        </Container>
+        <Container
+          mt="sm"
+          p="lg"
+        >
+          <Text ta="center" c="dimmed">
+            Help me add locations or information! Discord: qru
+          </Text>
         </Container>
       </AppShell.Main>
     </AppShell>
