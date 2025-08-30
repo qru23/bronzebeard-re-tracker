@@ -1,7 +1,7 @@
-import { Accordion, AppShell, AppShellFooter, Box, Button, Container, Group, MenuDropdown, Select, Stack, Text, TextInput, Title } from '@mantine/core'
 import { useEffect, useMemo, useState } from 'react'
+import { Accordion, AppShell, Box, Container, Group, Select, Text, TextInput } from '@mantine/core'
+import type { ClassData, Rarity } from './types'
 import db from './db.json'
-import type { ClassData, Rarity, RE } from './types'
 
 const data = db.classes as unknown as ClassData[]
 
