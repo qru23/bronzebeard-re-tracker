@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from 'react'
-import { Accordion, AppShell, Box, Container, Group, Select, Text, TextInput, Title } from '@mantine/core'
+import { Accordion, AppShell, Box, Container, Group, Select, Stack, Text, TextInput, Title } from '@mantine/core'
 import type { ClassData, Rarity } from './types'
 import db from './db.json'
 
@@ -62,7 +62,7 @@ function App() {
         >
           {re.name}
         </Accordion.Control>
-        <Accordion.Panel>{re.location || 'Unknown'}</Accordion.Panel>
+        <Accordion.Panel c="white">{re.location}</Accordion.Panel>
       </Accordion.Item>
     ))
   }, [filteredRes])
@@ -155,9 +155,14 @@ function App() {
           mt="sm"
           p="lg"
         >
-          <Text ta="center" c="dimmed">
-            Help me add locations or information! Discord: qru
-          </Text>
+          <Stack>
+            <Text ta="center" c="dimmed">
+              Help me add locations or information! Discord: qru
+            </Text>
+            <Text ta="center" c="dimmed">
+              Additional credits: The people of the <a href="https://discord.com/invite/classicplus" target="_blank">Bronzebeard Discord</a> who post their findings.
+            </Text>
+          </Stack>
         </Container>
       </AppShell.Main>
     </AppShell>

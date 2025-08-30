@@ -318,19 +318,19 @@
       "res": [{
           "name": "Heroic Leap",
           "rarity": "artifact",
-          "location": "",
+          "location": "Un'Goro Crater: To the east by the raptors, talk to a goblin and do a jump puzzle. the NPC gives you a jetpack, where you get 3 new abilities, one lets you fly up, 2 lets you click on the floor to land and 3 lets you fall safely. Your goal is to climb the tree.",
           "specs": []
         },
         {
           "name": "Avatar",
           "rarity": "artifact",
-          "location": "",
+          "location": "Alterac Mountains: Ruins of Alterac loot from Mountain King",
           "specs": []
         },
         {
           "name": "War Banner",
           "rarity": "artifact",
-          "location": "",
+          "location": "Desolace: Interact with banner in the center of Centaur Camp in the Valley of Spears (34,55)",
           "specs": []
         },
         {
@@ -342,55 +342,55 @@
         {
           "name": "Colossus Smash",
           "rarity": "legendary",
-          "location": "",
+          "location": "STV: interactable broken shield outside gurubashi arena leaning against a log",
           "specs": []
         },
         {
           "name": "Fury Mastery",
           "rarity": "legendary",
           "location": "",
-          "specs": []
+          "specs": ["Fury"]
         },
         {
           "name": "Arms Mastery",
           "rarity": "legendary",
-          "location": "",
-          "specs": []
+          "location": "Redridge Mountains: Loot 'Kazon' orc area in the north.",
+          "specs": ["Arms"]
         },
         {
           "name": "Heavyweight",
           "rarity": "legendary",
-          "location": "",
+          "location": "STV: Loot 'King Mukla' on the island east of Booty Bay.",
           "specs": []
         },
         {
           "name": "Protection Mastery",
           "rarity": "legendary",
-          "location": "Alterac Mountains in house where Targ is",
-          "specs": []
+          "location": "Redridge Mountains: Loot Gat'ilzogg in Stonewatch Keep",
+          "specs": ["Protection"]
         },
         {
           "name": "Ambidextrous",
           "rarity": "legendary",
-          "location": "",
+          "location": "STV: Loot Mosh'Ogre Butcher in Mosh'Ogre Mound. Tanaris: Loot Dunemaul Enforcer or Brute (unconfirmed).",
           "specs": []
         },
         {
           "name": "Raging Blow",
           "rarity": "legendary",
-          "location": "",
+          "location": "STV: Dropped by Bloodscalp Berserker in Zuuldaia Ruins.",
           "specs": []
         },
         {
           "name": "Enduring Aegis",
           "rarity": "legendary",
-          "location": "",
+          "location": "EPL: Loot Scourge Warder",
           "specs": []
         },
         {
           "name": "Dragon Roar",
           "rarity": "legendary",
-          "location": "",
+          "location": "Wetlands: Red Scalebane",
           "specs": []
         },
         {
@@ -408,7 +408,7 @@
         {
           "name": "Bulwark",
           "rarity": "legendary",
-          "location": "",
+          "location": "Trainer Quest (level 30).",
           "specs": []
         },
         {
@@ -418,7 +418,7 @@
           "specs": []
         },
         {
-          "name": "Gladiator",
+          "name": "Gladiator Stance",
           "rarity": "legendary",
           "location": "STV Arena quests",
           "specs": ["Protection"]
@@ -426,13 +426,13 @@
         {
           "name": "Blood and Thunder",
           "rarity": "epic",
-          "location": "",
+          "location": "(Alliance) Westfall: Speak with Harvinck the huninged. Kill the spawning harvester",
           "specs": []
         },
         {
           "name": "Sword and Thunder",
           "rarity": "epic",
-          "location": "",
+          "location": "Barrens: Drop from Stormhides in the south.",
           "specs": []
         },
         {
@@ -462,19 +462,19 @@
         {
           "name": "Skull Crusher",
           "rarity": "epic",
-          "location": "",
+          "location": "STV: Bahl'ia Ruins. Dun Morough: Rare trogg in Gol'Bolar Quarry.",
           "specs": []
         },
         {
           "name": "Victorious",
           "rarity": "epic",
-          "location": "",
+          "location": "Swamp of Sorrows: Dropped by Lost One Cook rare elite in the north",
           "specs": []
         },
         {
           "name": "Revengeful Block",
           "rarity": "epic",
-          "location": "",
+          "location": "Barrens: Interact with a shield north of the north west oasis. Redridge Mountains: Interact with shield on top of the orc town outside Stonewatch Keep",
           "specs": []
         },
         {
@@ -486,7 +486,7 @@
         {
           "name": "Roar of Dread",
           "rarity": "epic",
-          "location": "",
+          "location": "Elwynn Forest: Loot Fedfennel rare northwest of Stonecairn Lake",
           "specs": []
         },
         {
@@ -510,13 +510,13 @@
         {
           "name": "Victorious Stand",
           "rarity": "epic",
-          "location": "",
+          "location": "Swamp of Sorrows: Loot Lost One Cook rare to the north",
           "specs": []
         },
         {
           "name": "Counterpoise",
           "rarity": "epic",
-          "location": "",
+          "location": "Westfall: Loot Master Digger rare in Jangolode Mine",
           "specs": []
         },
         {
@@ -528,9 +528,10 @@
         {
           "name": "Battering Ram",
           "rarity": "epic",
-          "location": "",
+          "location": "Mulgore: Loot Enforcer Emilgund rare (40,16)",
           "specs": []
-        }, {
+        }, 
+        {
           "name": "Cleaving Slam",
           "rarity": "epic",
           "location": "",
@@ -539,25 +540,25 @@
         {
           "name": "Outrage",
           "rarity": "epic",
-          "location": "",
+          "location": "Westfall: Loot Brack (rare) murloc patrolling to the west",
           "specs": []
         },
         {
           "name": "Desperation",
           "rarity": "epic",
-          "location": "",
+          "location": "Barrens: Loot Hagg Taurenbane in the south.",
           "specs": []
         },
         {
           "name": "A Quick Death",
           "rarity": "epic",
-          "location": "",
+          "location": "Tanaris: Interact with bone pile in Gadgetzan arena",
           "specs": []
         },
         {
           "name": "Dragon Warrior",
           "rarity": "epic",
-          "location": "",
+          "location": "Wetlands: Red Scalebane",
           "specs": []
         },
         {
@@ -569,31 +570,31 @@
         {
           "name": "Going For the Kill",
           "rarity": "epic",
-          "location": "",
+          "location": "Barrens: Loot Brokespear (rare) in Stagnant Oasis (57,41)",
           "specs": []
         },
         {
           "name": "Titan's Fury",
           "rarity": "epic",
-          "location": "",
+          "location": "Un'Goro Crater: Take teleporter in the back of cave in town, interact with mysterious orb.",
           "specs": []
         },
         {
           "name": "Master of Arms",
           "rarity": "epic",
-          "location": "",
+          "location": "Hinterlands: Talk to and then loot Wandering Hero.",
           "specs": []
         },
         {
           "name": "Brutal Execution",
           "rarity": "epic",
-          "location": "",
+          "location": "Duskwood: Interact with an axe by a cage in the north",
           "specs": []
         },
         {
           "name": "Raging Onslaught",
           "rarity": "epic",
-          "location": "",
+          "location": "Arathi Hightlands: Loot Blouderfist ogres",
           "specs": []
         },
         {
@@ -623,7 +624,7 @@
         {
           "name": "Shield Finesse",
           "rarity": "epic",
-          "location": "",
+          "location": "Wetlands: Loot Mar'ruk Wyrmscale (rare) by the pass to Lock Modan.",
           "specs": []
         },
         {
@@ -637,16 +638,17 @@
           "rarity": "epic",
           "location": "",
           "specs": []
-        }, {
+        }, 
+        {
           "name": "Devastating Blademaster",
           "rarity": "epic",
-          "location": "",
+          "location": "Redridge Mountains: Loot Tharil'zun in Stonewatch Keep.",
           "specs": []
         },
         {
           "name": "Jab Cross",
           "rarity": "epic",
-          "location": "",
+          "location": "Searing Gorge: Loot Steamgineer Cogbolt (rare) south of town.",
           "specs": []
         },
         {
@@ -658,7 +660,7 @@
         {
           "name": "Controlled Aggression",
           "rarity": "epic",
-          "location": "",
+          "location": "Burning Steppes: Loot Guard Jones in Blackrock Pass.",
           "specs": []
         },
         {
@@ -3051,7 +3053,7 @@
         {
           "name": "Primal Tide",
           "rarity": "epic",
-          "location": "",
+          "location": "Chest on ship west of Theramore Isle",
           "specs": []
         },
         {
