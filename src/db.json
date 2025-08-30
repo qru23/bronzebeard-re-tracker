@@ -18,7 +18,7 @@
       "res": [{
           "name": "Light's Hammer",
           "rarity": "artifact",
-          "location": "WPL Scarlet Area named mob",
+          "location": "Found in Stormgarde Crypt. Enter Stormgarde. Go under the overpass. Go Right - Enter the human area.. GO Right... back over the overpass. Stay to the right and you will find the crypt. It's down there.",
           "specs": ["Holy", "Retribution", "Protection"]
         },
         {
@@ -36,115 +36,115 @@
         {
           "name": "Execution Sentence",
           "rarity": "legendary",
-          "location": "",
+          "location": "Durnholde Keep gallows",
           "specs": []
         },
         {
           "name": "Twist of Faith",
           "rarity": "legendary",
-          "location": "",
+          "location": "Brother Anton, Nijel's Point, Desolace",
           "specs": []
         },
         {
           "name": "Hammerstorm",
           "rarity": "legendary",
-          "location": "",
+          "location": "Hearthglen, Tyr's Hand",
           "specs": []
         },
         {
           "name": "Holy Templar",
           "rarity": "legendary",
-          "location": "",
+          "location": "Fight Forgetful Paladin in south east desolace (he's fighting a bunch of undead)",
           "specs": []
         },
         {
           "name": "Divine Steed",
           "rarity": "artifact",
-          "location": "",
+          "location": "Divine Steed elite horse running around Badlands",
           "specs": []
         },
         {
           "name": "Light of the Guardian",
           "rarity": "legendary",
-          "location": "",
+          "location": "Shadowprey Village in Desolace, talk to Brother Notran",
           "specs": []
         },
         {
           "name": "Crimson Defense",
           "rarity": "legendary",
-          "location": "",
+          "location": "Loot from elites in Hearthglen",
           "specs": []
         },
         {
           "name": "Protection Mastery",
           "rarity": "legendary",
-          "location": "",
+          "location": "Ruins of Alterac, Church in the first left corner as you enter. ",
           "specs": ["Protection"]
         },
         {
           "name": "Blessing of the Divines",
           "rarity": "legendary",
-          "location": "",
+          "location": "book in the corner of the scarlet monastery exterior",
           "specs": ["Holy"]
         },
         {
           "name": "Glimmer of Light",
           "rarity": "legendary",
-          "location": "",
+          "location": "Duskwood 43,67. Desolace interactable yellow crystal north west.",
           "specs": ["Holy"]
         },
         {
           "name": "Holy Mastery",
           "rarity": "legendary",
-          "location": "",
+          "location": "Theramore Graveyard, Tome of Mastery lootable",
           "specs": ["Holy"]
         },
         {
           "name": "One With The Light",
           "rarity": "legendary",
-          "location": "",
+          "location": "Father Gavin in Dun Morough right by Misty Pine Refuge",
           "specs": []
         },
         {
           "name": "Guardian of Ancient Kings",
           "rarity": "legendary",
-          "location": "",
+          "location": "EPL - Little statue on the back-left side of the gate before undead area outside Strat Undead",
           "specs": []
         },
         {
           "name": "Retribution Mastery",
           "rarity": "legendary",
-          "location": "",
+          "location": "Arathi Highlands, Stormgarde Chapel. Enter, first corner to the right. Beware if Horde - you will have to corpserun.",
           "specs": ["Retribution"]
         },
         {
           "name": "Crusader of the Light",
           "rarity": "epic",
-          "location": "",
+          "location": "Anvil middle of Iron Forge",
           "specs": []
         },
         {
           "name": "Consecrated Weapon",
           "rarity": "epic",
-          "location": "",
+          "location": "Tirisfal Glades -North of farm to the east. Speak with the Infected Crusader",
           "specs": []
         },
         {
           "name": "Crusader's Judgement",
           "rarity": "epic",
-          "location": "",
+          "location": "Lootable book in Stormgarde Keep",
           "specs": []
         },
         {
           "name": "Swift Execution",
           "rarity": "epic",
-          "location": "",
+          "location": "EPL - Tyr's Hand to the south",
           "specs": []
         },
         {
           "name": "Branding Zeal",
           "rarity": "epic",
-          "location": "",
+          "location": "Hearthglen",
           "specs": []
         },
         {
@@ -156,67 +156,67 @@
         {
           "name": "Execution Verdict",
           "rarity": "epic",
-          "location": "",
+          "location": "EPL - Tyr's Hand. go into the area its in a nook on the right. A little RPG element plays out.",
           "specs": []
         },
         {
           "name": "Consecrated Zeal",
           "rarity": "epic",
-          "location": "",
+          "location": "Hearthglen",
           "specs": []
         },
         {
           "name": "Divine Reprieve",
           "rarity": "epic",
-          "location": "",
+          "location": "Underwater a drowned paladin west of Auberdine in Darkshore",
           "specs": []
         },
         {
           "name": "Fierce Vengeance",
           "rarity": "epic",
-          "location": "",
+          "location": "Tyr's Hand - Scarlet Praetorian",
           "specs": []
         },
         {
           "name": "Pious Strikes",
           "rarity": "epic",
-          "location": "",
+          "location": "EPL: Tyr's Hand the first building on the right at the very top. book on the ledge next to the elite",
           "specs": []
         },
         {
           "name": "Synergistic Light",
           "rarity": "epic",
-          "location": "",
+          "location": "Blasted Lands, Dark Portal. Loot both Horde and Alliance invasion plans from the tents, and combine them.",
           "specs": []
         },
         {
           "name": "A New Dawn",
           "rarity": "epic",
-          "location": "",
+          "location": "Southshore graveyard",
           "specs": ["Holy"]
         },
         {
           "name": "Spark of Hope",
           "rarity": "epic",
-          "location": "",
+          "location": "Mirkfallon Lake, Stonetalon. Middle of the lake, lootable Spark on the ground (?)",
           "specs": []
         },
         {
           "name": "Light of Dawn",
           "rarity": "epic",
-          "location": "",
+          "location": "Swamp of Sorrows, The Harborage. Enter the tent on the left side as you arrive. Not inaccessible to Horde, but it might require a corpserun.",
           "specs": ["Holy"]
         },
         {
           "name": "Baleful Hammer",
           "rarity": "epic",
-          "location": "",
+          "location": "WPL - Above western farm",
           "specs": []
         },
         {
           "name": "Righteous Verdict",
           "rarity": "epic",
-          "location": "",
+          "location": "Pick up in Stormgarde Keep",
           "specs": []
         },
         {
@@ -228,7 +228,7 @@
         {
           "name": "Sword of Vengeance",
           "rarity": "epic",
-          "location": "",
+          "location": "Wetlands - Waterfall all the way in the south. Bloodmyst Isle - Malestra Dusksoul by The Vector Coil in the west. Hinterlands rock middle of lake to the north.",
           "specs": []
         },
         {
@@ -240,49 +240,49 @@
         {
           "name": "Swift Avenger",
           "rarity": "epic",
-          "location": "",
+          "location": "Winterspring: Talk to Captain Dawnmarch a little south of Everlook",
           "specs": []
         },
         {
           "name": "Armor of Wrath",
           "rarity": "epic",
-          "location": "",
+          "location": "In Undercity (when you get in, go under the stairs on the left, in the passage.)",
           "specs": []
         },
         {
           "name": "Sacred Light",
           "rarity": "epic",
-          "location": "",
+          "location": "Alterac Mountains graveyard. Stand behind the main gravestone, click on a small, little button. This creates a Sacred Light NPC. Target it, then type /pray.",
           "specs": []
         },
         {
           "name": "Wrathful Exorcism",
           "rarity": "epic",
-          "location": "",
+          "location": "Highlord Taelan Fordring Hearthglen",
           "specs": []
         },
         {
           "name": "Divine Resurgence",
           "rarity": "epic",
-          "location": "",
+          "location": "Stratholme Main Entrance, right side, looted from the Flower of Regret",
           "specs": []
         },
         {
           "name": "Divine Sacrifice",
           "rarity": "epic",
-          "location": "",
+          "location": "Tyr's Hand bookcase building to the north",
           "specs": []
         },
         {
           "name": "Blessed Hammer",
           "rarity": "epic",
-          "location": "",
+          "location": "EPL - Crusader chest north of Corin's Crossing",
           "specs": []
         },
         {
           "name": "Divine Order",
           "rarity": "epic",
-          "location": "",
+          "location": "Behind Kara in the Chapel. Spawns on the bench on the right.",
           "specs": []
         },
         {
@@ -294,7 +294,7 @@
         {
           "name": "Shield of Wrath",
           "rarity": "epic",
-          "location": "",
+          "location": "WPL - Hearthglen lootable in chapel",
           "specs": ["Protection"]
         }
       ]
@@ -366,7 +366,7 @@
         {
           "name": "Protection Mastery",
           "rarity": "legendary",
-          "location": "",
+          "location": "Alterac Mountains in house where Targ is",
           "specs": []
         },
         {
@@ -2349,7 +2349,7 @@
         {
           "name": "Holy Mastery",
           "rarity": "legendary",
-          "location": "",
+          "location": "Theramore on the Left side before you enter the City",
           "specs": []
         },
         {
