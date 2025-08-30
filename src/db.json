@@ -708,13 +708,13 @@
         {
           "name": "Stampeding Roar",
           "rarity": "artifact",
-          "location": "",
+          "location": "Hillsbrand Foothills: Loot Araga (rare) near alliance AV entrance.",
           "specs": []
         },
         {
           "name": "Solar Beam",
           "rarity": "artifact",
-          "location": "",
+          "location": "Tanaris: Interactable to the right of the entrance to Caverns of Time.",
           "specs": []
         },
         {
@@ -726,25 +726,25 @@
         {
           "name": "Carnage Incarnate",
           "rarity": "legendary",
-          "location": "",
+          "location": "Moonglade: Bear statue.",
           "specs": []
         },
         {
           "name": "Flow of Life",
           "rarity": "legendary",
-          "location": "",
+          "location": "STV: Lord Sakrasis (either loot or interactable behind him not sure)",
           "specs": []
         },
         {
           "name": "Feral Mastery",
           "rarity": "legendary",
-          "location": "",
+          "location": "Badlands: Loot Brokentooth. Feralas: Loot Grim Totem Naturalists.",
           "specs": []
         },
         {
           "name": "Sunfire",
           "rarity": "legendary",
-          "location": "",
+          "location": "Tanaris: Loot Fire Roc.",
           "specs": []
         },
         {
@@ -756,7 +756,7 @@
         {
           "name": "Guardian Mastery",
           "rarity": "legendary",
-          "location": "",
+          "location": "Hillsbrand Foothills: Big Samras (rare bear) north of Durnholde Keep.",
           "specs": []
         },
         {
@@ -768,25 +768,25 @@
         {
           "name": "Restoration Mastery",
           "rarity": "legendary",
-          "location": "",
+          "location": "Ashenvale: Center of Lake Falathim (?). Barrens: Interact with flower at Lushwater Oasis.",
           "specs": []
         },
         {
           "name": "Overflow",
           "rarity": "legendary",
-          "location": "",
+          "location": "Un'Goro Crater: Waterfall by lake to the west.",
           "specs": []
         },
         {
           "name": "Balance Mastery",
           "rarity": "legendary",
-          "location": "",
+          "location": "Moonglade: Moonkin balancing on a rope called Balance Druid (heh).",
           "specs": []
         },
         {
           "name": "Deranged Druid",
           "rarity": "legendary",
-          "location": "",
+          "location": "Silithus: Loot Tortured Druids in Southwind Village.",
           "specs": []
         },
         {
@@ -804,7 +804,7 @@
         {
           "name": "Incarnation: King of the Jungle",
           "rarity": "legendary",
-          "location": "",
+          "location": "STV: Humar the Pridelord (rare).",
           "specs": []
         },
         {
@@ -816,19 +816,19 @@
         {
           "name": "Fury Unleashed",
           "rarity": "legendary",
-          "location": "",
+          "location": "Badlands: Back entrance to Uldaman, speak to Grivolk.",
           "specs": []
         },
         {
           "name": "Celestial Power",
           "rarity": "legendary",
-          "location": "",
+          "location": "Barrens: South of Camp Mojache, run across a log over a pond and /kneel in front of some Night Elf.",
           "specs": []
         },
         {
           "name": "Chosen of Elune",
           "rarity": "legendary",
-          "location": "",
+          "location": "Moonglade: Building",
           "specs": []
         },
         {
@@ -840,7 +840,7 @@
         {
           "name": "Spirit of the Forest",
           "rarity": "legendary",
-          "location": "",
+          "location": "Moonglade: Floating tree above small lake.",
           "specs": []
         },
         {
@@ -888,7 +888,7 @@
         {
           "name": "Nature's Abundance",
           "rarity": "epic",
-          "location": "",
+          "location": "Barrens: Forgotten Pools (44,22).",
           "specs": []
         },
         {
@@ -900,7 +900,7 @@
         {
           "name": "Ferocious Clarity",
           "rarity": "epic",
-          "location": "",
+          "location": "Mulgore: Loot Rake (rare) (?)",
           "specs": []
         },
         {
@@ -924,7 +924,7 @@
         {
           "name": "Relentless Laceration",
           "rarity": "epic",
-          "location": "",
+          "location": "Ashenvale: Ursol'lok (rare) in northeast.",
           "specs": []
         },
         {
@@ -972,7 +972,7 @@
         {
           "name": "Razor-sharp Claws",
           "rarity": "epic",
-          "location": "",
+          "location": "Wetlands: Razormaw Matriarch in northeast (?).",
           "specs": []
         },
         {
@@ -1038,13 +1038,13 @@
         {
           "name": "Blooming Power",
           "rarity": "epic",
-          "location": "",
+          "location": "Ashenvale: Small lake by path to barrens in the south.",
           "specs": []
         },
         {
           "name": "Critical Cycles",
           "rarity": "epic",
-          "location": "",
+          "location": "Moonglade: Interactable in a moonwell southeast of Thistlefur Village (60,73).",
           "specs": []
         },
         {
@@ -1068,13 +1068,13 @@
         {
           "name": "Savage Barricade",
           "rarity": "epic",
-          "location": "",
+          "location": "Feralas: Elite bear south of Dire Maul.",
           "specs": []
         },
         {
           "name": "TIMBERRR",
           "rarity": "epic",
-          "location": "",
+          "location": "Feralas: Loot Gnarl Leafbrother (rare) treat around Woodpaw Hills.",
           "specs": []
         },
         {
@@ -1092,7 +1092,7 @@
         {
           "name": "Shifting Bark",
           "rarity": "epic",
-          "location": "",
+          "location": "Feralas: Loot Wandering Forest Walker.",
           "specs": []
         },
         {
