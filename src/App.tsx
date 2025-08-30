@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from 'react'
-import { Accordion, AppShell, Box, Container, Group, Select, Text, TextInput } from '@mantine/core'
+import { Accordion, AppShell, Box, Container, Group, Select, Text, TextInput, Title } from '@mantine/core'
 import type { ClassData, Rarity } from './types'
 import db from './db.json'
 
@@ -74,12 +74,36 @@ function App() {
     setFilterSpec(null)
   }, [currentClass])
 
+  const trackStats = useMemo(() => {
+    const allRes = data.reduce((acc, cls) => {
+      acc.push(...cls.res)
+      return acc
+    }, [] as ClassData['res'])
+
+    const populated = allRes.filter(re => re.location !== '')
+
+    return { 
+      total: allRes.length, 
+      populated: populated.length 
+    }
+  }, [])
+
   return (
     <AppShell>
       <AppShell.Main>
         <Container>
-          <h1>Bronzebeard RE Tracker</h1>
-
+          <Group
+            mt='md'
+            mb='md'
+            align='end'
+            justify='space-between'
+          >
+            <Title>Bronzebeard RE Tracker</Title>
+            <Text c="dimmed">
+              {trackStats.populated}/{trackStats.total} tracked ({((trackStats.populated / trackStats.total) * 100).toFixed(2)}%)
+            </Text>
+          </Group>
+          
           <Box
             mb={'md'}
           >

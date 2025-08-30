@@ -24,7 +24,7 @@
         {
           "name": "Beacon of Virtue",
           "rarity": "legendary",
-          "location": "Somewhere",
+          "location": "",
           "specs": ["Holy"]
         },
         {
@@ -79,25 +79,25 @@
           "name": "Protection Mastery",
           "rarity": "legendary",
           "location": "",
-          "specs": []
+          "specs": ["Protection"]
         },
         {
           "name": "Blessing of the Divines",
           "rarity": "legendary",
           "location": "",
-          "specs": []
+          "specs": ["Holy"]
         },
         {
           "name": "Glimmer of Light",
           "rarity": "legendary",
           "location": "",
-          "specs": []
+          "specs": ["Holy"]
         },
         {
           "name": "Holy Mastery",
           "rarity": "legendary",
           "location": "",
-          "specs": []
+          "specs": ["Holy"]
         },
         {
           "name": "One With The Light",
@@ -115,7 +115,7 @@
           "name": "Retribution Mastery",
           "rarity": "legendary",
           "location": "",
-          "specs": []
+          "specs": ["Retribution"]
         },
         {
           "name": "Crusader of the Light",
@@ -193,7 +193,7 @@
           "name": "A New Dawn",
           "rarity": "epic",
           "location": "",
-          "specs": []
+          "specs": ["Holy"]
         },
         {
           "name": "Spark of Hope",
@@ -205,7 +205,7 @@
           "name": "Light of Dawn",
           "rarity": "epic",
           "location": "",
-          "specs": []
+          "specs": ["Holy"]
         },
         {
           "name": "Baleful Hammer",
