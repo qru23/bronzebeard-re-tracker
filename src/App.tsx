@@ -98,7 +98,7 @@ function App() {
             align='end'
             justify='space-between'
           >
-            <Title>Bronzebeard RE Tracker</Title>
+            <Title>Bronzebeard ME Tracker</Title>
             <Text c="dimmed">
               {trackStats.populated}/{trackStats.total} tracked ({((trackStats.populated / trackStats.total) * 100).toFixed(2)}%)
             </Text>
